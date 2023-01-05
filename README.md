@@ -1,6 +1,6 @@
 # Video 7 show notes for Python
 
-* Link to this [page](https://bit.ly/rickScalaClojureB62): `https://bit.ly/rickScalaClojureB62` TODO
+* Link to this [page](https://bit.ly/python_base62): `https://bit.ly/python_base62` TODO
 * Link to related [video](https://youtu.be/1kbAUob3Bi0) TODO 
 
 
