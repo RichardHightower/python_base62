@@ -1,7 +1,8 @@
 # Video 7 show notes for Python
 
-* Link to this [page](https://bit.ly/python_base62): `https://bit.ly/python_base62`
-* Link to related [video](https://youtu.be/1kbAUob3Bi0) TODO 
+
+* Link to this [page](https://bit.ly/python_base62): `https://bit.ly/python_base62` 
+* Link to related [video](https://youtu.be/Sdfxs8UsK3w)  
 
 
 ## Tags
@@ -52,7 +53,7 @@
 
 Porting Base62Encoder/Decoder from Scala to Python.
 
-[Link To video](https://youtu.be/1kbAUob3Bi0)
+[Link To video](https://youtu.be/Sdfxs8UsK3w)
 
 ## Scala to Python
 
